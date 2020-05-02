@@ -2,6 +2,8 @@
 
 Esse aplicativo é totalmente para fins de estudos. Recriado pela conclusão do curso "Criando seu primeiro App com Flutter" feito pela plataforma do balta.io
 
+<img src="imagem/Captura de Tela 2020-05-02 às 09.52.18.png">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
